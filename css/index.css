@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#pageTitle{
+    border: 1px solid red;
+    text-align: center;
+}
